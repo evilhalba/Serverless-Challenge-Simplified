@@ -38,7 +38,11 @@ serverless deploy
 ## ☕Aproveite, caso queira ver o projeto em ação utilize as seguintes URLs!
 
 endpoints:
+
   GET - https://eec40xmkw4.execute-api.us-east-1.amazonaws.com/
+  
   POST - https://eec40xmkw4.execute-api.us-east-1.amazonaws.com/
+  
   PUT - https://eec40xmkw4.execute-api.us-east-1.amazonaws.com/{id}
+  
   DELETE - https://eec40xmkw4.execute-api.us-east-1.amazonaws.com/{id}
