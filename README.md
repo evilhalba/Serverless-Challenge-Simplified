@@ -13,7 +13,7 @@ Para instalar o projeto, siga estas etapas:
 ```
 yarn 
 ```
-Para o banco de dados funcionar corretamente com a aplicação você precisa gerar a tabela no banco usando um SGBD da sua prefêrencia usadno o seguinte schema:
+Para o banco de dados funcionar corretamente com a aplicação você precisa gerar a tabela no banco usando um SGBD da sua prefêrencia usando o seguinte schema:
 
 ```
 CREATE TABLE `employees` (
