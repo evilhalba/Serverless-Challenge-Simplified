@@ -1,4 +1,4 @@
-# Serverless-Challenge
+# Serverless-Challenge-Simplified
 
 ### Olá, esta é a versão simplificada funcional de uma integração com o AWS Lambda+RDS(Mysql)+API Gateway
 
