@@ -4,12 +4,12 @@
 
 ## 💻 Pré-requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente do serverless framework
-* Você instalou a versão mais recente do Yarn
-* Você gerou uma RDS(Mysql) na Amazon AWS
+- [ ] Você instalou a versão mais recente do serverless framework
+- [ ] Você instalou a versão mais recente do Yarn
+- [ ] Você gerou uma RDS(Mysql) na Amazon AWS
 
 ## 🚀 Instalando 
-Para instalar o projeto, siga estas etapas
+Para instalar o projeto, siga estas etapas:
 ```
 yarn 
 ```
